@@ -1,5 +1,6 @@
-#include "main.h"
-
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 /**
  * reverse - reversing a string
  * @s: pointer to string
